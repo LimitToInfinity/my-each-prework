@@ -4,7 +4,7 @@ def my_each(array)
   
   while i < collection.length
     i += 1
-    yield (i)
+    
 end
 
 yielding { puts i }
